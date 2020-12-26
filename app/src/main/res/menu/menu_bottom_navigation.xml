@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+
+
+    <item
+        android:id="@+id/navigation_hotel"
+        android:icon="@drawable/ic_local_hotel"
+        android:title="Khách sạn" />
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/ic_nearby"
+        android:title="Bản đồ" />
+
+    <item
+        android:id="@+id/navigation_food"
+        android:icon="@drawable/ic_food_bank"
+        android:title="Ẩm Thực" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_account_circle"
+        android:title="Tài Khoản" />
+</menu>
